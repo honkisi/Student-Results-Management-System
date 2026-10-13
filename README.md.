@@ -1,0 +1,37 @@
+Student Result Management System
+
+Project Overview
+
+The Student Result Management System is a C++ console application developed to demonstrate the use of arrays in data structures.
+
+The program allows users to enter students’ names and examination scores, display their results, calculate the average score, and identify the highest and lowest scores.
+
+Objectives
+
+* Store students’ names and scores using arrays.
+* Display students’ examination results.
+* Calculate the average score.
+* Identify the highest and lowest scores.
+* Assign grades based on examination scores.
+
+Data Structure Used
+
+The project uses arrays to store student names and scores. Arrays allow related data to be organized under a single variable name and accessed using indexes.
+
+Technologies Used
+
+* C++
+* Arrays
+* Loops and conditional statements
+* Online C++ compiler
+
+How to Run
+
+1. Download the C++ source file.
+2. Open it in a C++ compiler.
+3. Compile and run the program.
+4. Enter the number of students, their names, and their scores.
+
+Conclusion
+
+This project demonstrates how arrays can be used to solve a practical problem by storing and processing student examination results.
